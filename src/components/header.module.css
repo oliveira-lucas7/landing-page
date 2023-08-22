@@ -1,0 +1,59 @@
+.header{
+    text-decoration: none;
+    width: 100%;
+    background-color: blueviolet;
+    height: 10rem;
+}
+
+.logo{
+    height: 10rem;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.pesquisa{
+    display: flex;
+    justify-content: center;
+    margin-top: -6rem;
+    margin-left: 42rem;
+    height: 30px;
+    width: 30rem;
+    border-radius: 100px;
+}
+
+.lista{
+    display: flex;
+    margin-left: 78rem;
+    margin-top: -3rem;
+}
+
+.desejos{
+    margin-top: 1.2rem;
+    margin-left: 1rem;
+    cursor: pointer;
+}
+
+.Entrar{
+    display: flex;
+    margin-left: 94rem;
+    margin-top: -2rem;
+    cursor: pointer;
+}
+
+.user{
+    margin-left: 0.5rem;
+    margin-top: 0.6rem;
+}
+
+.Car{
+    margin-left: 105rem;
+    margin-top: -2.2rem;
+    cursor: pointer;
+}
+
+.use{
+    height: 36px;
+    margin-top: -0.2rem;
+}
