@@ -1,6 +1,5 @@
 import Logo from "./logo.png"
 import Style from "./header.module.css";
-import Pesquisa from "./Pesquisa.svg";
 import Heart from "./Heart.svg";
 import User from "./Usuario.svg";
 import Car from "./Car.svg";

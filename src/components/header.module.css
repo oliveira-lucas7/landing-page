@@ -57,3 +57,13 @@
     height: 36px;
     margin-top: -0.2rem;
 }
+
+.lista span:hover{
+    color: yellowgreen;
+    border-bottom: 0.2rem solid yellowgreen;
+}
+
+.Entrar span:hover{
+    color: yellowgreen;
+    border-bottom: 0.2rem solid yellowgreen;
+}
